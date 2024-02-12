@@ -1,0 +1,1 @@
+C:\Users\test1\source\repos\AppPruebaV1\AppPruebaV1.csproj;x64
